@@ -1,0 +1,28 @@
+* {
+	border: 1px solid black;
+}
+
+container {
+	margin: 0px 0px 0px 0px;
+}
+
+body {
+	background: url("../images/thumb-1920-376475.jpg") no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
+
+
